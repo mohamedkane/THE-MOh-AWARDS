@@ -1,0 +1,40 @@
+ 
+    .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color:green;
+}
+
+body{
+     background-image:url("https://i.stack.imgur.com/NEuip.jpg");
+    }
+    
+     h1{
+    color: goldenrod ;
+      font-family: 'Abril Fatface', cursive;
+    text-align: center;
+  }
+  
+   h2{
+     color:SpringGreen 	;
+     text-align:center;
+    
+
+ }
+  
+   h3{
+        color: goldenrod ;
+        font-family: 'Kumar One Outline', cursive;    text-align: center;
+  }
+   
+   li{
+       color:aqua;
+   }
+   
+     img {
+            width:80%;
+            border:10px ridge gold;
+            }
+            
